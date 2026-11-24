@@ -1,0 +1,5 @@
+python-dotenv
+logging
+discord
+psycopg2-binary
+sqlalchemy
